@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/nature-quotes-landscape-1648265299.jpg?crop=1.00xw:0.760xh;0,0.0587xh&resize=1200:*");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+p {
+  color: aqua;
+  font-size: 60px;
+  text-align: center;
+}
+
+.random-data {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  color: whitesmoke;
+}
+
+/* This is for title  */
+#title-ho {
+  font-size: 100px;
+  color: red;
+}

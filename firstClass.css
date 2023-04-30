@@ -1,0 +1,13 @@
+h1 {
+  color: tomato;
+  /* color: rgb(255, 0, 0); */
+}
+a {
+  font-size: 70px;
+}
+.header-tag {
+  color: aquamarine;
+}
+#head-tag2 {
+  color: yellowgreen;
+}
